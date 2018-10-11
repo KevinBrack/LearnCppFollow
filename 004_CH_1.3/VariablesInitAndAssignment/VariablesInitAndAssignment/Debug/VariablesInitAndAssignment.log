@@ -1,0 +1,2 @@
+﻿  VariablesInitAndAssignment.cpp
+c:\users\brack\documents\programing\001_classes\008_learncpp_com\004_ch_1.3\variablesinitandassignment\variablesinitandassignment\variablesinitandassignment.cpp(35): error C4700: uninitialized local variable 'a' used
