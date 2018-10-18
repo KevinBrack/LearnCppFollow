@@ -1,2 +1,3 @@
 ﻿  FunctionsAndReturn.cpp
-  FunctionsAndReturn.vcxproj -> C:\Users\brack\Documents\Programing\001_classes\008_learncpp_com\006_CH_1.4\FunctionsAndReturn\Debug\FunctionsAndReturn.exe
+c:\users\brack\documents\programing\001_classes\008_learncpp_com\006_ch_1.4\functionsandreturn\functionsandreturn\functionsandreturn.cpp(104): error C2601: 'foo': local function definitions are illegal
+  c:\users\brack\documents\programing\001_classes\008_learncpp_com\006_ch_1.4\functionsandreturn\functionsandreturn\functionsandreturn.cpp(102): note: this line contains a '{' which has not yet been matched
